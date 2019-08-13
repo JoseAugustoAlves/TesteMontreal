@@ -1,0 +1,17 @@
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Application.deps.json
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Application.runtimeconfig.json
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Application.runtimeconfig.dev.json
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Application.dll
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Application.pdb
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.csproj.CoreCompileInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.RazorAssemblyInfo.cache
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.RazorAssemblyInfo.cs
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.AssemblyInfoInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.AssemblyInfo.cs
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.RazorTargetAssemblyInfo.cache
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.dll
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.pdb
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Domain.dll
+C:\dev\TesteMontreal\src\Store\Store.Application\bin\Debug\netcoreapp2.1\Store.Domain.pdb
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.csprojAssemblyReference.cache
+C:\dev\TesteMontreal\src\Store\Store.Application\obj\Debug\netcoreapp2.1\Store.Application.csproj.CopyComplete

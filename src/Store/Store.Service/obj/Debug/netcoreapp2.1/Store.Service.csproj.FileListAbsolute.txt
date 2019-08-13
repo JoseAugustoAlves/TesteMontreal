@@ -1,0 +1,8 @@
+C:\dev\TesteMontreal\src\Store\Store.Service\bin\Debug\netcoreapp2.1\Store.Service.deps.json
+C:\dev\TesteMontreal\src\Store\Store.Service\bin\Debug\netcoreapp2.1\Store.Service.dll
+C:\dev\TesteMontreal\src\Store\Store.Service\bin\Debug\netcoreapp2.1\Store.Service.pdb
+C:\dev\TesteMontreal\src\Store\Store.Service\obj\Debug\netcoreapp2.1\Store.Service.csproj.CoreCompileInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Service\obj\Debug\netcoreapp2.1\Store.Service.AssemblyInfoInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Service\obj\Debug\netcoreapp2.1\Store.Service.AssemblyInfo.cs
+C:\dev\TesteMontreal\src\Store\Store.Service\obj\Debug\netcoreapp2.1\Store.Service.dll
+C:\dev\TesteMontreal\src\Store\Store.Service\obj\Debug\netcoreapp2.1\Store.Service.pdb

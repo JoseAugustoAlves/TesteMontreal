@@ -1,0 +1,12 @@
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.csprojAssemblyReference.cache
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.csproj.CoreCompileInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.AssemblyInfoInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.AssemblyInfo.cs
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\bin\Debug\netcoreapp2.1\Store.Infra.Data.deps.json
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\bin\Debug\netcoreapp2.1\Store.Infra.Data.dll
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\bin\Debug\netcoreapp2.1\Store.Infra.Data.pdb
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\bin\Debug\netcoreapp2.1\Store.Domain.dll
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\bin\Debug\netcoreapp2.1\Store.Domain.pdb
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.csproj.CopyComplete
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.dll
+C:\dev\TesteMontreal\src\Store\Store.Infra.data\obj\Debug\netcoreapp2.1\Store.Infra.Data.pdb

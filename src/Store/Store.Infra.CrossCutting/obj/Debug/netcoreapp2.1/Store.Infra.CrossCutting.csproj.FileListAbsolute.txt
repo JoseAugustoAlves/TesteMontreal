@@ -1,0 +1,8 @@
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\bin\Debug\netcoreapp2.1\Store.Infra.CrossCutting.deps.json
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\bin\Debug\netcoreapp2.1\Store.Infra.CrossCutting.dll
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\bin\Debug\netcoreapp2.1\Store.Infra.CrossCutting.pdb
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Store.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Store.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Store.Infra.CrossCutting.AssemblyInfo.cs
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Store.Infra.CrossCutting.dll
+C:\dev\TesteMontreal\src\Store\Store.Infra.CrossCutting\obj\Debug\netcoreapp2.1\Store.Infra.CrossCutting.pdb
